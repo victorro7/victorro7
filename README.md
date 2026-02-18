@@ -1,6 +1,6 @@
 # Hi, I'm Victor Osunji 👋
 
-I'm a Computer Science student at the University of Maryland, Baltimore County (UMBC) on the AI/ML track and a Break Through Tech AI Fellow at Cornell Tech. My passion lies in architecting and deploying full-stack, production-grade generative AI solutions that solve tangible problems by making complex technology more intuitive and accessible.
+I'm a Break Through Tech AI Fellow at Cornell Tech and a Computer Science Alum at the University of Maryland, Baltimore County (UMBC). My passion lies in architecting and deploying full-stack, production-grade generative AI solutions that solve tangible problems by making complex technology more intuitive and accessible.
 
 My experience at companies like **IBM** and **Cisco** has centered on building end-to-end AI systems, from Retrieval-Augmented Generation (RAG) pipelines for technical documentation to AI chatbots that streamline engineering workflows. I love taking ideas from concept to reality, which is why I've also built my own scalable, multimodal AI platforms like **Klair** and **Raven** using Google Gemini, FastAPI, Next.js, and Google Cloud Platform.
 
@@ -30,8 +30,6 @@ Here are some of the key technologies I work with:
 
 ## Pinned Projects
 
-***Note for Victor:*** *Make sure to pin your project repositories on your GitHub profile. Your Fall AI Studio project should be one of them. For each repository, create a detailed `README.md` file as described in your rubric.*
-
 ### ⭐ [Klair: AI-Powered Content Analysis SaaS](https://github.com/victorro7/klair_live)
 
 An AI-powered SaaS platform that transforms video content analysis through conversational intelligence. Klair helps content creators and enterprises identify viral moments in long-form video content automatically.
@@ -47,10 +45,3 @@ A production-ready AI conversational platform delivering ChatGPT-level intellige
 * **Features:** Real-time streaming architecture with Server-Sent Events, secure multi-file upload system, and a responsive chat interface with markdown parsing and syntax highlighting.
 
 ---
-
-## 📊 My GitHub Stats & Activity
-
-[![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorro7&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorro7&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-I'm actively contributing to personal and open-source projects. My goal is to maintain consistent activity, engage with the community through pull requests and discussions, and continuously learn from others in the field.
