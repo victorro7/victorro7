@@ -32,7 +32,7 @@ Here are some of the key technologies I work with:
 
 ***Note for Victor:*** *Make sure to pin your project repositories on your GitHub profile. Your Fall AI Studio project should be one of them. For each repository, create a detailed `README.md` file as described in your rubric.*
 
-### ⭐ [Klair: AI-Powered Content Analysis SaaS](https://github.com/victorro7/pubKlair)
+### ⭐ [Klair: AI-Powered Content Analysis SaaS](https://github.com/victorro7/klair_live)
 
 An AI-powered SaaS platform that transforms video content analysis through conversational intelligence. Klair helps content creators and enterprises identify viral moments in long-form video content automatically.
 
